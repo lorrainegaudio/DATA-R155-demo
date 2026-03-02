@@ -1,0 +1,59 @@
+---
+title: "Chapter 9 Practice"
+output: html_notebook
+---
+
+
+## Load Data
+
+I am learning how to load data that is placed in a data folder. I need to make sure I have the correct file path. 
+
+```{r}
+# Library First
+library(readr)
+
+# Load data
+dplace_df <- read_csv("data/Values_Transport_dplace.csv")
+```
+
+
+YAY! It Loaded!
+
+
+## Workflow
+
+Always open R by opening the file and clicking the Project. 
+
+1. Click Pull FIRST
+
+2. Do work in your project as usual
+
+3. When you have done enough work to feel like you need a back up, Stage and Commit
+
+Stage: 
+
+1. click SAVE! Make the red name of your file black.
+
+2. Then stage by clicking the boxes in Git Tab. 
+
+3. Then click comit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
