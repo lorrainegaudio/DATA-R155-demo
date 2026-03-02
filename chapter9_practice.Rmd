@@ -38,7 +38,9 @@ Stage:
 
 3. Then click comit
 
+4. You can keep working and make many commits!
 
+When ready/done for the day, Push the commits over. 
 
 
 
